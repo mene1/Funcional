@@ -1,2 +1,2 @@
 # Funcional
-Programas relacionados a discilpina de Programação Funcional em Haskell
+Programas relacionados a disciplina de Programação Funcional em Haskell
